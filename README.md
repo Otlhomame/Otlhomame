@@ -1,4 +1,4 @@
-# Hiya, Sylvester is my easier name
+# Hiya, Sylvester
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Otlhomame&show_icons=true&theme=radical" />
 
