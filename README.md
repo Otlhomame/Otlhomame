@@ -1,4 +1,4 @@
-# Hiya, Sylvester
+Snapshot Summary...
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Otlhomame&show_icons=true&theme=radical" />
 
